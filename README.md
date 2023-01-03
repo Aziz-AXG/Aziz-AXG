@@ -25,11 +25,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axg-coder&show_icons=true&locale=en&layout=compact" alt="axg-coder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axg-coder&show_icons=true&locale=en" alt="axg-coder" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=axg-coder&show_icons=true&locale=en" alt="axg-coder" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axg-coder&" alt="axg-coder" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=axg-coder&" alt="axg-coder" /></p>
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AXG-coder&theme=radical&langs_count=10&hide=jupyter%20notebook,html" alt="axg-coder" /></p>
+<p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AXG-coder" alt="axg-coder" /></p>
 
 
